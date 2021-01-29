@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="colorAccent">#03a9f4</color>
+
+    <!--Calculator Color-->
+    <color name="colorDarkSlateGray">#403765</color>
+    <color name="colorDarkBlue">#4D4576</color>
+    <color name="colorDarkBlue80">#525180</color>
+    <color name="colorSeaGreen">#27BA70</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorLightGray">#c3ededed</color>
+</resources>
